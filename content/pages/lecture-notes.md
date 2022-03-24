@@ -49,7 +49,7 @@ Alan Guth
 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Integral Formulation of Basic Equations (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln3)
+ [Integral Formulation of Basic Equations (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln3)
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -73,7 +73,7 @@ Alan Guth
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Image Charge Method; Separation of Variables (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln5)
+ [Image Charge Method; Separation of Variables (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln5)
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -85,7 +85,7 @@ Alan Guth
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Separation of Variables in Spherical Coordinates (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln6)
+ [Separation of Variables in Spherical Coordinates (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln6)
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -133,7 +133,7 @@ Alan Guth
 10
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Magnetic Multipole Expansion and Magnetic Dipoles (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln10)
+ [Magnetic Multipole Expansion and Magnetic Dipoles (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln10)
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -145,7 +145,7 @@ Alan Guth
 11
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Magnetic Dipoles and Magnetic Fields in Matter (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln11)
+ [Magnetic Dipoles and Magnetic Fields in Matter (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln11)
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
